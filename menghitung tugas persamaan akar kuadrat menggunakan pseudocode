@@ -1,0 +1,5 @@
+start
+input nilai "a",nilai "b",nilai "C"
+menghitung persamaan kuadrat ax^2+bx+c
+output "pesamaan kuadrat"
+finish
